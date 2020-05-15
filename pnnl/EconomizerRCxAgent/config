@@ -14,6 +14,7 @@
     "arguments": {
         "point_mapping": {
             "supply_fan_status": "FanStatus",
+            "AHU_status":"AHUStatus"
             "outdoor_air_temperature": "OutsideAirTemp",
             "return_air_temperature": "ReturnAirTemp",
             "mixed_air_temperature": "MixedAirTemp",
